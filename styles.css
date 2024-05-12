@@ -307,13 +307,17 @@ span{
 
 .cards-comentarios img{
     border-radius: 50%;
-    width: 150px;
+    width: 100px;
 }
 
 .cards-comentarios h3, .cards-comentarios p{
     color: #fff;
     font-family: 'Kdam Thmor Pro', sans-serif;
     margin-top: 20px;
+}
+
+.stars{
+    margin-top: 300px;
 }
 
 
