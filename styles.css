@@ -187,12 +187,15 @@ span{
 #contact-banner{
     background-image: url('https://rollingstone.uol.com.br/media/uploads/2024/04/coringa-delirio-a-dois-com-joaquin-phoenix-e-lady-gaga-ganha-trailer-foto-divulgacaowarner-bros-pictures.jpg');
     background-size: cover;
-    width: 100%;
+}
+
+#imageblur{
     height: 700px;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    backdrop-filter: blur(5px);
 }
 
 .contact{
